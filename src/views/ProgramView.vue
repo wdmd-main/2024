@@ -1,6 +1,16 @@
 <template>
   <div class="program">
-    TBD
+    <el-table
+      :data="tableData"
+      border
+      style="width: 100%;"
+      header-cell-class-name="header"
+      :cell-class-name="cellClassName"
+    >
+      <el-table-column prop="time" label="Time" header-align="center" width="140px" />
+      <el-table-column prop="topic" label="Topic" header-align="center" />
+      <el-table-column prop="speaker" label="Speaker" header-align="center" width="280px" />
+    </el-table>
   </div>
 </template>
 

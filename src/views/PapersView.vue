@@ -1,6 +1,6 @@
 <template>
   <div class="papers">
-    <p class="pa-header p">The WDMD 2025 workshop invites researches and practitioners to submit original research contributions on dependability modeling and design. All the accepted papers will be included in the IEEE Xplore Digital Library.</p>
+    <p class="pa-header p">The WDMD 2024 workshop invites researches and practitioners to submit original research contributions on dependability modeling and design. All the accepted papers will be included in the IEEE Xplore Digital Library.</p>
 
     <div class="title2 section-title">Topics of Interest</div>
     <p class="pa-header p">Topics of the workshop include but are not limited to:</p>
@@ -16,15 +16,18 @@
     <ul class="list">
       <li class="item">
         <span class="label">Submission deadline:</span>
-        <span class="value strong">TBD</span>
+        <span class="value strong">August 14th, 2024 (AoE)</span>
+        <span class="value del">August 11th, 2024 (AoE)</span>
       </li>
       <li class="item">
         <span class="label">Notification deadline:</span>
-        <span class="value strong">TBD</span>
+        <span class="value strong">September 2nd, 2024 (AoE)</span>
+        <span class="value del">August 21th, 2024 (AoE)</span>
       </li>
       <li class="item">
         <span class="label">Camera-ready deadline:</span>
-        <span class="value strong">TBD</span>
+        <span class="value strong">September 10th, 2024 (AoE)</span>
+        <span class="value del">August 28th, 2024 (AoE)</span>
       </li>
     </ul>
 
@@ -51,7 +54,7 @@
     </ul>
 
     <div class="title2 section-title">Paper Submission</div>
-    <p class="pa-header p">Papers are submitted via EasyChair at the following URL: TBD</p>
+    <p class="pa-header p">Papers are submitted via EasyChair at the following URL: <a href="https://easychair.org/conferences/?conf=issre2024" target="_blank">https://easychair.org/conferences/?conf=issre2024</a></p>
     <p class="pa-content p">If you have any further questions, contact us via <mark>issre_wdmd@163.com</mark>.</p>
   </div>
 </template>
